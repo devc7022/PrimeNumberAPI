@@ -22,12 +22,13 @@ This is a simple REST API built using Java and Spring Boot. It takes a number as
 ---
 
 ## 📦 How to Run the API Locally
-
 ### 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/your-username/a-Simple-api.git
 cd a-Simple-api
- 
+
+
 
 
 
